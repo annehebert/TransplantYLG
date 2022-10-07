@@ -8,9 +8,15 @@ Contact : Alison Hill alhill@jhmi.edu
 
 Preprint: 
 
-## Summary
+### Summary
+
+The worsening opioid crisis in the United States has increased the availability of organs from donors who died of drug overdoses. We developed methods for quantifying the impact of this expanding organ donation source by estimating the years of life gained by recipients of overdose donor organs. We compare these gains to those from other organ donors and examine how differences in donor and recipient age distributions contribute to differential impact by donor type.
 
 
+### Files
 
-## Files
+code/years_of_life_gained.R : this script estimates the total years of life gained by transplant recipients for each year, organ type and donor mechanism of death.
 
+code/error_estimate_ylg.R : this script resamples the above years_of_life_gained script to estimate the uncertainty in the years of life gained
+
+code/functions.R : defines some functions
