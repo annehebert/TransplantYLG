@@ -6,7 +6,6 @@ This is a repository for code estimating the years of life gained through organ 
 
 Work by <a href="https://alsnhll.github.io">Alison Hill</a> and Anne Hébert at Johns Hopkins University
 
-Contact: Alison Hill alhill@jhmi.edu
 
 Preprint: 
 
