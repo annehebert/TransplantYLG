@@ -4,7 +4,7 @@
 
 This is a repository for code estimating the years of life gained through organ transplant from donors deceased of drug overdose deaths.
 
-Work with: <a href="https://alsnhll.github.io">Alison Hill</a> at Johns Hopkins University
+Work by <a href="https://alsnhll.github.io">Alison Hill</a> and Anne Hébert at Johns Hopkins University
 
 Contact: Alison Hill alhill@jhmi.edu
 
