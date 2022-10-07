@@ -17,6 +17,11 @@ The worsening opioid crisis in the United States has increased the availability 
 
 ### Files
 
+#### Code
+
 code/years_of_life_gained.R : this script estimates the total years of life gained by transplant recipients for each year, organ type and donor mechanism of death.
 
 code/functions.R : defines some functions
+
+#### Data
+
