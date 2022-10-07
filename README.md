@@ -1,6 +1,8 @@
 # YearsofLifeGainedfromTransplant
 
-In progress repository for code estimating the years of life gained through organ transplant from donors deceased of drug overdose deaths.
+#### In progress 
+
+This is a repository for code estimating the years of life gained through organ transplant from donors deceased of drug overdose deaths.
 
 Work with Alison Hill at Johns Hopkins University https://alsnhll.github.io
 
@@ -16,7 +18,5 @@ The worsening opioid crisis in the United States has increased the availability 
 ### Files
 
 code/years_of_life_gained.R : this script estimates the total years of life gained by transplant recipients for each year, organ type and donor mechanism of death.
-
-code/error_estimate_ylg.R : this script resamples the above years_of_life_gained script to estimate the uncertainty in the years of life gained
 
 code/functions.R : defines some functions
